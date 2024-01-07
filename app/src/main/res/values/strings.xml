@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">simpleCalculator</string>
+
+    <string name="number1">Number1</string>
+    <string name="operation">operation</string>
+    <string name="number2">Number2</string>
+    <string name="zero">0</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="modules">%</string>
+    <string name="equal">=</string>
+
+</resources>
